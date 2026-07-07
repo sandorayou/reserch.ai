@@ -34,14 +34,6 @@ flow.md が存在しない場合は作成する。
 ### 5. 結果保存
 `results/YYYYMMDD_issue-name.md` に保存する。
 
-フォーマット：
-* Task
-* Why
-* Method
-* Result
-* Evidence
-* Decision (PASS / FAIL / UNCLEAR / BLOCKED)
-
 ### 6. flow.md 更新
 Issue の状態を更新する。
 
@@ -51,3 +43,6 @@ Issue の状態を更新する。
 2. 根本原因の解決
 3. 前提条件の検証
 4. 総試行回数の削減
+
+## 最終出力
+すべての結果は `results/` に保存します。
